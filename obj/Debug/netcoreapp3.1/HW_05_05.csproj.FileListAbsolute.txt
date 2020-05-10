@@ -1,0 +1,13 @@
+C:\project\HW_05_05\bin\Debug\netcoreapp3.1\HW_05_05.exe
+C:\project\HW_05_05\bin\Debug\netcoreapp3.1\HW_05_05.deps.json
+C:\project\HW_05_05\bin\Debug\netcoreapp3.1\HW_05_05.runtimeconfig.json
+C:\project\HW_05_05\bin\Debug\netcoreapp3.1\HW_05_05.runtimeconfig.dev.json
+C:\project\HW_05_05\bin\Debug\netcoreapp3.1\HW_05_05.dll
+C:\project\HW_05_05\bin\Debug\netcoreapp3.1\HW_05_05.pdb
+C:\project\HW_05_05\obj\Debug\netcoreapp3.1\HW_05_05.csprojAssemblyReference.cache
+C:\project\HW_05_05\obj\Debug\netcoreapp3.1\HW_05_05.csproj.CoreCompileInputs.cache
+C:\project\HW_05_05\obj\Debug\netcoreapp3.1\HW_05_05.AssemblyInfoInputs.cache
+C:\project\HW_05_05\obj\Debug\netcoreapp3.1\HW_05_05.AssemblyInfo.cs
+C:\project\HW_05_05\obj\Debug\netcoreapp3.1\HW_05_05.dll
+C:\project\HW_05_05\obj\Debug\netcoreapp3.1\HW_05_05.pdb
+C:\project\HW_05_05\obj\Debug\netcoreapp3.1\HW_05_05.genruntimeconfig.cache
